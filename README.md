@@ -1,5 +1,5 @@
-# PlaywrightTutorial
-This repository contains all the code I develop while taking a Playwright tutorial by [Automation Step By Step](https://www.youtube.com/watch?v=4_m3HsaNwOE), serving as both a portfolio of my work and a resource for others learning about test automation.
+# Playwright Tutorial
+This repository contains the test scripts I develop while taking a Playwright tutorial by [Automation Step By Step](https://www.youtube.com/watch?v=4_m3HsaNwOE), serving as both a portfolio of my work and a resource for others learning about test automation.
 
 
 ## Prerequisites
